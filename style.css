@@ -41,7 +41,7 @@ a {
 }
 
 .main-header {
-    background-image: url("./images/img-mission-background.jpg");
+    background-image: url("img-mission-background.jpg");
     height: 700px;
     width: 1200px;
     display: flex;
@@ -75,7 +75,7 @@ a {
 
 .locations {
     margin: auto;
-    background-image: url("./images/img-locations-background.webp");
+    background-image: url("img-locations-background.webp");
     height: 550px;
 }
 
